@@ -7,4 +7,4 @@ Coding for fun, for living, for life.
 - Working hard to be a real engineer
 
 ## Additional
-It's a English nickname, do not use in with Japanese Romaji.
+It's a English nickname, do not use in Japanese Romaji.
